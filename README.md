@@ -5,7 +5,6 @@
   <a href="https://hassanahmad.info">🌐 hassanahmad.info</a>
 </p>
 
----
 
 ### 👋 About Me
 
@@ -13,7 +12,6 @@ I'm a full-stack software engineer from Lahore, Pakistan, with a focus on buildi
 
 I'm passionate about writing clean, maintainable code and shipping software that actually makes an impact.
 
----
 
 ### 🛠️ Tech Stack
 
@@ -69,7 +67,6 @@ I'm passionate about writing clean, maintainable code and shipping software that
   </tr>
 </table>
 
----
 
 ### 📊 GitHub Stats
 
@@ -77,7 +74,6 @@ I'm passionate about writing clean, maintainable code and shipping software that
   <img src="https://streak-stats.demolab.com/?user=hasnzahmd&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
----
 
 <p align="center">
   <i>Let's build something great — reach out at <b>hassanahmad.6h1@gmail.com</b></i>
