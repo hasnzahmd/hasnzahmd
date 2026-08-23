@@ -1,4 +1,4 @@
-<h2 align="center">Software Engineer · Full Stack Developer · AI Enthusiast</h2>
+<h2 align="center">Software Engineer · Full Stack Developer</h2>
 
 <p align="center">
   <a href="https://hassanahmad.info" target="_blank">🌐 hassanahmad.info</a>
